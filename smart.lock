@@ -1,0 +1,18 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "meteor-phonegap-oauth": {
+        "git": "https://github.com/particle4dev/meteor-phonegap-oauth.git",
+        "branch": "master"
+      }
+    },
+    "packages": {
+      "meteor-phonegap-oauth": {
+        "git": "https://github.com/particle4dev/meteor-phonegap-oauth.git",
+        "branch": "master",
+        "commit": "d91c91d408c523c2f8ec8e486d17bb6c23b6ef44"
+      }
+    }
+  }
+}
